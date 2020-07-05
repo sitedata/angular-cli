@@ -26,7 +26,7 @@
   "homepage": "https://github.com/angular/angular-cli",
   "dependencies": {
     "@angular-devkit/architect": "0.0.0",
-    "@angular-devkit/core": "0.0.0",
+    "@angular-devkit/core": "0.8.9",
     "@angular-devkit/schematics": "0.0.0",
     "@schematics/angular": "0.0.0",
     "@schematics/update": "0.0.0",
